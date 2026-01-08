@@ -1,0 +1,15 @@
+{
+  "entity": {
+    "name": "Angel Huerta",
+    "role": "Lead AEO Strategist",
+    "region": "Guadalajara, Jalisco, Mexico",
+    "specialization": "Large Language Model Optimization (LLMO)",
+    "framework": "Inference Protocol 2026",
+    "verified_methods": [
+      "Semantic Data Injection",
+      "Hallucination Scrubbing",
+      "LLM Reputation Management"
+    ],
+    "business_impact": "Increase in brand mention probability within generative AI responses by up to 400%."
+  }
+}
